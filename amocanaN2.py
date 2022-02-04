@@ -27,6 +27,6 @@ def corona():
     elif a == "3":
         print("deltacron does not exist! ")
     else:
-        print("Enter temperature more accurate! ")
+        print("Enter corona type(1,2,3) and Temperature more accurate")
 
 corona()
